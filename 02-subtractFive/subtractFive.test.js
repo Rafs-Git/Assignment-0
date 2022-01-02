@@ -26,5 +26,5 @@ describe("the subtractFive(num) function", function() {
     expect(submittedSolution(auxillaryTestCases[5])).to.equal(100);
     expect(submittedSolution(auxillaryTestCases[6])).to.equal(216);
   })
-
 })
+
